@@ -1,1 +1,1 @@
-# Placeholder-Java
+# Placeholder-Java Blockchain Project
